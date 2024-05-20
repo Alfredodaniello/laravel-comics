@@ -21,3 +21,22 @@ body {
         height: 100%;
     }
 }
+
+.card {
+    background-color: #1c1c1c;
+    border: none;
+    div {
+        color: white
+    }
+}
+
+main {
+    background-color: #1c1c1c;
+}
+
+.img-container {
+    height: 300px;
+    background-color: aqua;
+    background-image: url('../img/jumbotron.jpg');
+    background-size: cover;
+}
